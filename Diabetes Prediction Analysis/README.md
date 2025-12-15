@@ -1,0 +1,1 @@
+This project builds a machine learning model to predict whether a person has diabetes using basic health data such as glucose level, BMI, age, blood pressure, and insulin. The task is treated as a binary classification problem, with an emphasis on recall so that as many true diabetes cases as possible are correctly identified.
